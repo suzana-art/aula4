@@ -31,7 +31,7 @@ echo Desenvolvido com ❤️ e Git.
 ) > README.md
 
 echo [1/6] Inicializando repositório...
-git init
+::git init
 
 echo.
 echo [2/6] Adicionando arquivos...
@@ -39,7 +39,7 @@ git add . -v
 
 echo.
 echo [3/6] Criando primeiro commit...
-git commit -m "✨ Primeiro commit"
+::git commit -m "✨ Primeiro commit"
 
 echo.
 echo [4/6] Configurando branch principal...
@@ -47,7 +47,7 @@ git branch -M main
 
 echo.
 echo [5/6] Configurando repositório remoto...
-git remote add origin https://github.com/suzana-art/aula4.git
+::git remote add origin https://github.com/suzana-art/aula4.git
 
 echo.
 echo [6/6] Enviando arquivos para o GitHub...
