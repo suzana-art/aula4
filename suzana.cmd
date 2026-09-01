@@ -1,4 +1,5 @@
 @echo off
+chcp 1252
 title Publicador GitHub - Aula 4
 color 0A
 
